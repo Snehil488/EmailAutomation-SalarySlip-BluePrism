@@ -272,7 +272,7 @@ You will not be able to call this action from a business process, nor will it be
     <loginhibit />
     <display x="-195" y="75" w="150" h="30" />
     <datatype>text</datatype>
-    <initialvalue xml:space="preserve">snehilsingh4888@gmail.com</initialvalue>
+    <initialvalue xml:space="preserve">dummymail@gmail.com</initialvalue>
     <private />
     <alwaysinit />
   </stage>
@@ -281,7 +281,7 @@ You will not be able to call this action from a business process, nor will it be
     <loginhibit />
     <display x="-195" y="120" w="90" h="30" />
     <datatype>password</datatype>
-    <initialvalueenc>50,27,17,88,45,1,65,83</initialvalueenc>
+    <initialvalueenc>112,71,71,4,88,2,67,93</initialvalueenc>
     <private />
     <alwaysinit />
   </stage>
